@@ -4,7 +4,7 @@
 }
 {
   "prompt": "How many routes has Luis climbed at Mission Gorge?",
-  "completion": "As of 2023 Luis climbed 35 routes."
+  "completion": "As of 2023 Luis climbed 34 routes."
 }
 {
   "prompt": "What is a route Luis has climbed in Mission Gorge?",
@@ -287,462 +287,298 @@
   "completion": "He climbed it last on April 25th, 2019."
 }
 {
-  "prompt": "What is a route Luis has climbed in Mission gorge?",
+  "prompt": "What is a route Luis has climbed in Mission Gorge?",
+  "completion": "Luis has climbed 'Crack of Dust', rated 5.8."
+}
+{
+  "prompt": "What style did Luis climb 'Crack of Dust' in?",
+  "completion": "Luis led that route, he fell once on a .5 placement down low then carried on."
+}
+{
+  "prompt": "What type of climbing is 'Crack of Dust'?",
+  "completion": "'Crack of Dust' is a trad climb."
+}
+{
+  "prompt": "How tall is 'Crack of Dust'?",
+  "completion": " 30' feet."
+}
+{
+  "prompt": "When did Luis climb 'Crack of Dust'?",
+  "completion": "He climbed that route last on April 23, 2023."
+}
+{
+  "prompt": "What is a route Luis has climbed in Mission Gorge?",
+  "completion": "Luis has climbed 'Shadowfax', rated 5.8."
+}
+{
+  "prompt": "What style did Luis climb 'Shadowfax' in?",
+  "completion": "Luis led that route, he watched and belayed his friend then flashed it."
+}
+{
+  "prompt": "What type of climbing is 'Shadowfax'?",
+  "completion": "'Shadowfax' is a trad climb."
+}
+{
+  "prompt": "How tall is 'Shadowfax'?",
+  "completion": " 40' feet."
+}
+{
+  "prompt": "When did Luis climb 'Shadowfax'?",
+  "completion": "He climbed it on April 23, 2019."
+}
+{
+  "prompt": "What is a route Luis has climbed in Mission Gorge?",
   "completion": "Luis has climbed '', rated ."
 }
 {
-  "prompt": "What style did Luis climb '' in?",
-  "completion": "Luis  that route."
+  "prompt": "What style did Luis climb 'Sam I am' in?",
+  "completion": "Luis led that route, onsight."
 }
 {
-  "prompt": "What type of climbing is ''?",
-  "completion": "'' is a  climb."
+  "prompt": "What type of climbing is 'Sam I am'?",
+  "completion": "'Sam I am' is a sport climb."
 }
 {
-  "prompt": "How tall is ''?",
-  "completion": " ' feet."
+  "prompt": "How tall is 'Sam I am'?",
+  "completion": " 30' feet."
 }
 {
-  "prompt": "When did Luis climb ''?",
-  "completion": "He climbed there last on."
+  "prompt": "When did Luis climb 'Sam I am'?",
+  "completion": "He climbed it on April 13, 2019."
 }
 {
-  "prompt": "What is a route Luis has climbed in Mission gorge?",
-  "completion": "Luis has climbed '', rated ."
+  "prompt": "What is a route Luis has climbed in Mission Gorge?",
+  "completion": "Luis has climbed 'Top of the Pops', rated 5.7."
 }
 {
-  "prompt": "What style did Luis climb '' in?",
-  "completion": "Luis  that route."
+  "prompt": "What style did Luis climb 'Top of the Pops' in?",
+  "completion": "Luis led that route first,onsight, then Solo'd it."
 }
 {
-  "prompt": "What type of climbing is ''?",
-  "completion": "'' is a  climb."
+  "prompt": "What type of climbing is 'Top of the Pops'?",
+  "completion": "'Top of the Pops' is a trad climb."
 }
 {
-  "prompt": "How tall is ''?",
-  "completion": " ' feet."
+  "prompt": "How tall is 'Top of the Pops'?",
+  "completion": " 30' feet."
 }
 {
-  "prompt": "When did Luis climb ''?",
-  "completion": "He climbed there last on."
+  "prompt": "When did Luis climb 'Top of the Pops'?",
+  "completion": "The first time he solo'd it was April 7th, 2019 there last on."
 }
 {
-  "prompt": "What is a route Luis has climbed in Mission gorge?",
-  "completion": "Luis has climbed '', rated ."
+  "prompt": "What is a route Luis has climbed in Mission Gorge?",
+  "completion": "Luis has climbed 'Nameless to the right of Fools Gold', rated 5.8."
 }
 {
-  "prompt": "What style did Luis climb '' in?",
-  "completion": "Luis  that route."
+  "prompt": "What style did Luis climb 'Luis has climbed 'Nameless to the right of Fools Gold' in?",
+  "completion": "Luis led that route, onsight."
 }
 {
-  "prompt": "What type of climbing is ''?",
-  "completion": "'' is a  climb."
+  "prompt": "What type of climbing is 'Luis has climbed 'Nameless to the right of Fools Gold'?",
+  "completion": "'Luis has climbed 'Nameless to the right of Fools Gold' is a trad climb."
 }
 {
-  "prompt": "How tall is ''?",
-  "completion": " ' feet."
+  "prompt": "How tall is 'Luis has climbed 'Nameless to the right of Fools Gold'?",
+  "completion": " 30' feet."
 }
 {
-  "prompt": "When did Luis climb ''?",
-  "completion": "He climbed there last on."
+  "prompt": "When did Luis climb 'Luis has climbed 'Nameless to the right of Fools Gold'?",
+  "completion": "He climbed it on February 23, 2019."
 }
 {
-  "prompt": "What is a route Luis has climbed in Mission gorge?",
-  "completion": "Luis has climbed '', rated ."
+  "prompt": "What is a route Luis has climbed in Mission Gorge?",
+  "completion": "Luis has climbed 'As the Crow Flies', rated 5.7+."
 }
 {
-  "prompt": "What style did Luis climb '' in?",
-  "completion": "Luis  that route."
+  "prompt": "What style did Luis climb 'As the Crow Flies' in?",
+  "completion": "Luis led that route, onsight."
 }
 {
-  "prompt": "What type of climbing is ''?",
-  "completion": "'' is a  climb."
+  "prompt": "What type of climbing is 'As the Crow Flies'?",
+  "completion": "'As the Crow Flies' is a sport climb."
 }
 {
-  "prompt": "How tall is ''?",
-  "completion": " ' feet."
+  "prompt": "How tall is 'As the Crow Flies'?",
+  "completion": " 45' feet."
 }
 {
-  "prompt": "When did Luis climb ''?",
-  "completion": "He climbed there last on."
+  "prompt": "When did Luis climb 'As the Crow Flies'?",
+  "completion": "He climbed it on January 4th, 2019."
 }
 {
-  "prompt": "What is a route Luis has climbed in Mission gorge?",
-  "completion": "Luis has climbed '', rated ."
+  "prompt": "What is a route Luis has climbed in Mission Gorge?",
+  "completion": "Luis has climbed 'History Book', rated 5.6."
 }
 {
-  "prompt": "What style did Luis climb '' in?",
-  "completion": "Luis  that route."
+  "prompt": "What style did Luis climb 'History Book' in?",
+  "completion": "Luis led that route, onsight."
 }
 {
-  "prompt": "What type of climbing is ''?",
-  "completion": "'' is a  climb."
+  "prompt": "What type of climbing is 'History Book'?",
+  "completion": "'History Book' is a trad climb."
 }
 {
-  "prompt": "How tall is ''?",
-  "completion": " ' feet."
+  "prompt": "How tall is 'History Book'?",
+  "completion": " 30' feet."
 }
 {
-  "prompt": "When did Luis climb ''?",
-  "completion": "He climbed there last on."
+  "prompt": "When did Luis climb 'History Book'?",
+  "completion": "He climbed there last on December 21st, 2018."
 }
 {
-  "prompt": "What is a route Luis has climbed in Mission gorge?",
-  "completion": "Luis has climbed '', rated ."
+  "prompt": "What is a route Luis has climbed in Mission Gorge?",
+  "completion": "Luis has climbed 'Beautiful', rated 5.5."
 }
 {
-  "prompt": "What style did Luis climb '' in?",
-  "completion": "Luis  that route."
+  "prompt": "What style did Luis climb 'Beautiful' in?",
+  "completion": "Luis led that route, onsight."
 }
 {
-  "prompt": "What type of climbing is ''?",
-  "completion": "'' is a  climb."
+  "prompt": "What type of climbing is 'Beautiful'?",
+  "completion": "'Beautiful' is a trad climb."
 }
 {
-  "prompt": "How tall is ''?",
-  "completion": " ' feet."
+  "prompt": "How tall is 'Beautiful'?",
+  "completion": " 80' feet."
 }
 {
-  "prompt": "When did Luis climb ''?",
-  "completion": "He climbed there last on."
+  "prompt": "When did Luis climb 'Beautiful'?",
+  "completion": "He climbed there last on December 21st, 2018."
 }
 {
-  "prompt": "What is a route Luis has climbed in Mission gorge?",
-  "completion": "Luis has climbed '', rated ."
+  "prompt": "What is a route Luis has climbed in Mission Gorge?",
+  "completion": "Luis has climbed 'Skyline Arete', rated 5.7+."
 }
 {
-  "prompt": "What style did Luis climb '' in?",
-  "completion": "Luis  that route."
+  "prompt": "What style did Luis climb 'Skyline Arete' in?",
+  "completion": "Luis led that route, onsite."
 }
 {
-  "prompt": "What type of climbing is ''?",
-  "completion": "'' is a  climb."
+  "prompt": "What type of climbing is 'Skyline Arete'?",
+  "completion": "'Skyline Arete' is a mixed sport/trad climb."
 }
 {
-  "prompt": "How tall is ''?",
-  "completion": " ' feet."
+  "prompt": "How tall is 'Skyline Arete'?",
+  "completion": " 40' feet."
 }
 {
-  "prompt": "When did Luis climb ''?",
-  "completion": "He climbed there last on."
+  "prompt": "When did Luis climb 'Skyline Arete'?",
+  "completion": "He climbed there last on December 21st, 2018."
 }
 {
-  "prompt": "What is a route Luis has climbed in Mission gorge?",
-  "completion": "Luis has climbed '', rated ."
+  "prompt": "What is a route Luis has climbed in Mission Gorge?",
+  "completion": "Luis has climbed 'Craig's Crack', rated 5.8."
 }
 {
-  "prompt": "What style did Luis climb '' in?",
-  "completion": "Luis  that route."
+  "prompt": "What style did Luis climb 'Craig's Crack' in?",
+  "completion": "Luis led that route, onsight."
 }
 {
-  "prompt": "What type of climbing is ''?",
-  "completion": "'' is a  climb."
+  "prompt": "What type of climbing is 'Craig's Crack'?",
+  "completion": "'Craig's Crack' is a trad climb."
 }
 {
-  "prompt": "How tall is ''?",
-  "completion": " ' feet."
+  "prompt": "How tall is 'Craig's Crack'?",
+  "completion": " 35' feet."
 }
 {
-  "prompt": "When did Luis climb ''?",
-  "completion": "He climbed there last on."
+  "prompt": "When did Luis climb 'Craig's Crack'?",
+  "completion": "He first climbed it on December 21st, 2019."
 }
 {
-  "prompt": "What is a route Luis has climbed in Mission gorge?",
-  "completion": "Luis has climbed '', rated ."
+  "prompt": "What is a route Luis has climbed in Mission Gorge?",
+  "completion": "Luis has climbed 'The Tower', rated 5.7."
 }
 {
-  "prompt": "What style did Luis climb '' in?",
-  "completion": "Luis  that route."
+  "prompt": "What style did Luis climb 'The Tower' in?",
+  "completion": "Luis led that route, onsight."
 }
 {
-  "prompt": "What type of climbing is ''?",
-  "completion": "'' is a  climb."
+  "prompt": "What type of climbing is 'The Tower'?",
+  "completion": "'The Tower' is a sport climb."
 }
 {
-  "prompt": "How tall is ''?",
-  "completion": " ' feet."
+  "prompt": "How tall is 'The Tower'?",
+  "completion": " 50' feet."
 }
 {
-  "prompt": "When did Luis climb ''?",
-  "completion": "He climbed there last on."
+  "prompt": "When did Luis climb 'The Tower'?",
+  "completion": "He climbed there for the first time December 2nd, 2018."
 }
 {
-  "prompt": "What is a route Luis has climbed in Mission gorge?",
-  "completion": "Luis has climbed '', rated ."
+  "prompt": "What is a route Luis has climbed in Mission Gorge?",
+  "completion": "Luis has climbed 'Turkey Chute', rated 5.7."
 }
 {
-  "prompt": "What style did Luis climb '' in?",
-  "completion": "Luis  that route."
+  "prompt": "What style did Luis climb 'Turkey Chute' in?",
+  "completion": "Luis has led the route, and solo'd it about 5 times."
 }
 {
-  "prompt": "What type of climbing is ''?",
-  "completion": "'' is a  climb."
+  "prompt": "What type of climbing is 'Turkey Chute'?",
+  "completion": "'Turkey Chute' is a trad climb."
 }
 {
-  "prompt": "How tall is ''?",
-  "completion": " ' feet."
+  "prompt": "How tall is 'Turkey Chute'?",
+  "completion": " 45' feet."
 }
 {
-  "prompt": "When did Luis climb ''?",
-  "completion": "He climbed there last on."
+  "prompt": "When did Luis climb 'Turkey Chute'?",
+  "completion": "He first climbed the route July 30th 2018."
 }
 {
-  "prompt": "What is a route Luis has climbed in Mission gorge?",
-  "completion": "Luis has climbed '', rated ."
+  "prompt": "What is a route Luis has climbed in Mission Gorge?",
+  "completion": "Luis has climbed 'Mission Control', rated 5.8."
 }
 {
-  "prompt": "What style did Luis climb '' in?",
-  "completion": "Luis  that route."
+  "prompt": "What style did Luis climb 'Mission Control' in?",
+  "completion": "Luis led that route, onsight."
 }
 {
-  "prompt": "What type of climbing is ''?",
-  "completion": "'' is a  climb."
+  "prompt": "What type of climbing is 'Mission Control'?",
+  "completion": "'Mission Control' is a sport climb."
 }
 {
-  "prompt": "How tall is ''?",
-  "completion": " ' feet."
+  "prompt": "How tall is 'Mission Control'?",
+  "completion": " 70' feet."
 }
 {
-  "prompt": "When did Luis climb ''?",
-  "completion": "He climbed there last on."
+  "prompt": "When did Luis climb 'Mission Control'?",
+  "completion": "He first climbed it on his birthday, June 25, 2018."
 }
 {
-  "prompt": "What is a route Luis has climbed in Mission gorge?",
-  "completion": "Luis has climbed '', rated ."
+  "prompt": "What is a route Luis has climbed in Mission Gorge?",
+  "completion": "Luis has climbed 'Easy Rider', rated 5.7."
 }
 {
-  "prompt": "What style did Luis climb '' in?",
-  "completion": "Luis  that route."
+  "prompt": "What style did Luis climb 'Easy Rider' in?",
+  "completion": "Luis led that route, onsight."
 }
 {
-  "prompt": "What type of climbing is ''?",
-  "completion": "'' is a  climb."
+  "prompt": "What type of climbing is 'Easy Rider'?",
+  "completion": "'Easy Rider' is a sport climb."
 }
 {
-  "prompt": "How tall is ''?",
-  "completion": " ' feet."
+  "prompt": "How tall is 'Easy Rider'?",
+  "completion": " 25' feet."
 }
 {
-  "prompt": "When did Luis climb ''?",
-  "completion": "He climbed there last on."
+  "prompt": "When did Luis climb 'Easy Rider'?",
+  "completion": "He first climbed the route June 3rd, 2018."
 }
 {
-  "prompt": "What is a route Luis has climbed in Mission gorge?",
-  "completion": "Luis has climbed '', rated ."
+  "prompt": "What is a route Luis has climbed in Mission Gorge?",
+  "completion": "Luis has climbed 'Knob Job', rated 5.8."
 }
 {
-  "prompt": "What style did Luis climb '' in?",
-  "completion": "Luis  that route."
+  "prompt": "What style did Luis climb 'Knob Job' in?",
+  "completion": "Luis top roped that route."
 }
 {
-  "prompt": "What type of climbing is ''?",
-  "completion": "'' is a  climb."
+  "prompt": "What type of climbing is 'Knob Job'?",
+  "completion": "'Knob Job' is a top rope climb."
 }
 {
-  "prompt": "How tall is ''?",
-  "completion": " ' feet."
-}
-{
-  "prompt": "When did Luis climb ''?",
-  "completion": "He climbed there last on."
-}
-{
-  "prompt": "What is a route Luis has climbed in Mission gorge?",
-  "completion": "Luis has climbed '', rated ."
-}
-{
-  "prompt": "What style did Luis climb '' in?",
-  "completion": "Luis  that route."
-}
-{
-  "prompt": "What type of climbing is ''?",
-  "completion": "'' is a  climb."
-}
-{
-  "prompt": "How tall is ''?",
-  "completion": " ' feet."
-}
-{
-  "prompt": "When did Luis climb ''?",
-  "completion": "He climbed there last on."
-}
-{
-  "prompt": "What is a route Luis has climbed in Mission gorge?",
-  "completion": "Luis has climbed '', rated ."
-}
-{
-  "prompt": "What style did Luis climb '' in?",
-  "completion": "Luis  that route."
-}
-{
-  "prompt": "What type of climbing is ''?",
-  "completion": "'' is a  climb."
-}
-{
-  "prompt": "How tall is ''?",
-  "completion": " ' feet."
-}
-{
-  "prompt": "When did Luis climb ''?",
-  "completion": "He climbed there last on."
-}
-{
-  "prompt": "What is a route Luis has climbed in Mission gorge?",
-  "completion": "Luis has climbed '', rated ."
-}
-{
-  "prompt": "What style did Luis climb '' in?",
-  "completion": "Luis  that route."
-}
-{
-  "prompt": "What type of climbing is ''?",
-  "completion": "'' is a  climb."
-}
-{
-  "prompt": "How tall is ''?",
-  "completion": " ' feet."
-}
-{
-  "prompt": "When did Luis climb ''?",
-  "completion": "He climbed there last on."
-}
-{
-  "prompt": "What is a route Luis has climbed in Mission gorge?",
-  "completion": "Luis has climbed '', rated ."
-}
-{
-  "prompt": "What style did Luis climb '' in?",
-  "completion": "Luis  that route."
-}
-{
-  "prompt": "What type of climbing is ''?",
-  "completion": "'' is a  climb."
-}
-{
-  "prompt": "How tall is ''?",
-  "completion": " ' feet."
-}
-{
-  "prompt": "When did Luis climb ''?",
-  "completion": "He climbed there last on."
-}
-{
-  "prompt": "What is a route Luis has climbed in Mission gorge?",
-  "completion": "Luis has climbed '', rated ."
-}
-{
-  "prompt": "What style did Luis climb '' in?",
-  "completion": "Luis  that route."
-}
-{
-  "prompt": "What type of climbing is ''?",
-  "completion": "'' is a  climb."
-}
-{
-  "prompt": "How tall is ''?",
-  "completion": " ' feet."
-}
-{
-  "prompt": "When did Luis climb ''?",
-  "completion": "He climbed there last on."
-}
-{
-  "prompt": "What is a route Luis has climbed in Mission gorge?",
-  "completion": "Luis has climbed '', rated ."
-}
-{
-  "prompt": "What style did Luis climb '' in?",
-  "completion": "Luis  that route."
-}
-{
-  "prompt": "What type of climbing is ''?",
-  "completion": "'' is a  climb."
-}
-{
-  "prompt": "How tall is ''?",
-  "completion": " ' feet."
-}
-{
-  "prompt": "When did Luis climb ''?",
-  "completion": "He climbed there last on."
-}
-{
-  "prompt": "What is a route Luis has climbed in Mission gorge?",
-  "completion": "Luis has climbed '', rated ."
-}
-{
-  "prompt": "What style did Luis climb '' in?",
-  "completion": "Luis  that route."
-}
-{
-  "prompt": "What type of climbing is ''?",
-  "completion": "'' is a  climb."
-}
-{
-  "prompt": "How tall is ''?",
-  "completion": " ' feet."
-}
-{
-  "prompt": "When did Luis climb ''?",
-  "completion": "He climbed there last on."
-}
-{
-  "prompt": "What is a route Luis has climbed in Mission gorge?",
-  "completion": "Luis has climbed '', rated ."
-}
-{
-  "prompt": "What style did Luis climb '' in?",
-  "completion": "Luis  that route."
-}
-{
-  "prompt": "What type of climbing is ''?",
-  "completion": "'' is a  climb."
-}
-{
-  "prompt": "How tall is ''?",
-  "completion": " ' feet."
-}
-{
-  "prompt": "When did Luis climb ''?",
-  "completion": "He climbed there last on."
-}
-{
-  "prompt": "What is a route Luis has climbed in Mission gorge?",
-  "completion": "Luis has climbed '', rated ."
-}
-{
-  "prompt": "What style did Luis climb '' in?",
-  "completion": "Luis  that route."
-}
-{
-  "prompt": "What type of climbing is ''?",
-  "completion": "'' is a  climb."
-}
-{
-  "prompt": "How tall is ''?",
-  "completion": " ' feet."
-}
-{
-  "prompt": "When did Luis climb ''?",
-  "completion": "He climbed there last on."
-}
-{
-  "prompt": "What is a route Luis has climbed in Mission gorge?",
-  "completion": "Luis has climbed '', rated ."
-}
-{
-  "prompt": "What style did Luis climb '' in?",
-  "completion": "Luis  that route."
-}
-{
-  "prompt": "What type of climbing is ''?",
-  "completion": "'' is a  climb."
-}
-{
-  "prompt": "How tall is ''?",
-  "completion": " ' feet."
-}
-{
-  "prompt": "When did Luis climb ''?",
-  "completion": "He climbed there last on."
+  "prompt": "How tall is 'Knob Job'?",
+  "completion": " 30' feet."
 }
